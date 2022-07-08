@@ -1,3 +1,4 @@
+#Question 1
 #!/usr/bin/env python
 # coding: utf-8
 
@@ -24,6 +25,7 @@ num= int(input("enter a number to check whether its perfect: "))
 perfect(num)
 
 
+#Question 2
 # In[ ]:
 
 
@@ -39,6 +41,7 @@ user_string=str(input("enter a word, phrase or sentence: "))
 palindrome(user_string)
 
 
+#Question 3
 # In[ ]:
 
 
@@ -53,6 +56,7 @@ for i in range(n):
     print()
 
 
+#Question 4
 # In[ ]:
 
 
@@ -70,6 +74,7 @@ else:
     print("entered sentence is palgram")
 
 
+#Question 5
 # In[ ]:
 
 
@@ -81,6 +86,7 @@ li.sort()
 print("-".join(li))
 
 
+#Question 6
 # In[ ]:
 
 
@@ -92,6 +98,7 @@ def student_data(student_name , student_branch, student_id):
 student_data("Aayush","Civil",21102050)
 
 
+#Question 7
 # In[ ]:
 
 
@@ -111,6 +118,7 @@ print(issubclass(Marks, object))
 print()
 
 
+#Question 8
 # In[ ]:
 
 
@@ -137,6 +145,7 @@ for i in range(0, n):
 print(findTriplets(lst,n))                
 
 
+#Question 9
 # In[ ]:
 
 
